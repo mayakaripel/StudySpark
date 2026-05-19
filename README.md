@@ -5,7 +5,7 @@ https://medo.dev/projects/app-bpatmk2p3ojl
 AI-powered gamified learning platform built with MeDo.
 
 ## Live Demo
-[Open StudySpark](YOUR_MEDO_LINK)
+[Open StudySpark](https://medo.dev/projects/app-bpatmk2p3ojl)
 
 ## Features
 - Voice AI tutor
@@ -22,10 +22,8 @@ AI-powered gamified learning platform built with MeDo.
 - Interactive educational UI
 
 ## Demo Video
-(YOUTUBE LINK)
+(https://youtube.com/shorts/y5MOKnM6bMg?feature=share)
 
-## Screenshots
-(add screenshots here)
 
 ## Hackathon
 Build with MeDo Hackathon
